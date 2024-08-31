@@ -13,18 +13,6 @@
       "value":".",
       "required":true
     },
-      "AUTO_REACTION":
-    {
-      "description":"Put on if you want the bot to react to people's messages.It won't react to your messages and those from creator keithkeizzah.", 
-      "value":"off", 
-      "required":false 
-    }, 
-    "AUTO_READ_MESSAGES":
-    {
-      "description":"Put on if you want the bot to autoread people's messages or else put no", 
-      "value":"off", 
-      "required":false     
-    },
     "AUTO_READ_STATUS":
     {
       "description":"Your contact status will be read automatically(type yes to active or no to deactive  ; don't write in capital letter)",
@@ -100,12 +88,6 @@
     "desc": "this is the limit of warn for warning commandes",
     "required": false,
     "value": "3"
-  },
-    "CHAT_BOT":
-    {
-      "desc": "Put on to allow the bot to chat with people who text you or put off if you don't want the bot to chat with people",
-      "required": false, 
-       "value": "off"	  
   },
   "STARTING_BOT_MESSAGE":
   {
