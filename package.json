@@ -2,11 +2,11 @@
   "name": "HUNCHO-MD",
   "version": "1.0.0",
   "description": "",
-  "main": "keith.js",
+  "main": "keithkeizzah.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "s": "node keith.js",
-    "bmwmd": "pm2 start keith.js --attach --max-memory-restart 490M",
+    "s": "node keithkeizzah.js",
+    "bmwmd": "pm2 start keithkeizzah.js --attach --max-memory-restart 490M",
     "c": "tsc"
   },
   "keywords": [
