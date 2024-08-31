@@ -9,8 +9,8 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/Keithkeizzah/HUNCHO-MD.git  /root/bmwMD
-WORKDIR /root/bmwmd/
+RUN git clone https://github.com/Keithkeizzah/HUNCHO-MD.git  /root/huncho
+WORKDIR /root/huncho/
 
 
 COPY package.json .
