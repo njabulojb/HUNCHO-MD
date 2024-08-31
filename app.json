@@ -101,6 +101,12 @@
     "required": false,
     "value": "3"
   },
+    "CHAT_BOT":
+    {
+      "desc": "Put on to allow the bot to chat with people who text you or put off if you don't want the bot to chat with people",
+      "required": false, 
+       "value": "off"	  
+  },
   "STARTING_BOT_MESSAGE":
   {
     "description": "if you don't want startting-bot-message put no else put yes",
