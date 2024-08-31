@@ -866,7 +866,7 @@ setTimeout(() => {
           console.log("chargement des commandes terminé ✅");
           await _0x37e887();
           if (conf.DP.toLowerCase() === "yes") {
-            let _0x4b5e14 = "\n〘 𝐇𝐔𝐍𝐂𝐇𝐎-𝐌𝐃 𝐢𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝 〙* \n                  \n*❍Your Prefix:* [ " + prefixe + " ] \n*❍Bot Mode:* " + _0x401be2 + " \n*❍Total commands:* " + evt.cm.length + "\n\n╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍\n    \n╔═════⬧\n║⬧ *Thanks for choosing HUNCHO-MD*\n╚════════════════>\n╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍\n> *Regards keithkeizzah*";
+            let _0x4b5e14 = "\n〘 𝐇𝐔𝐍𝐂𝐇𝐎-𝐌𝐃 𝐢𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝 〙 \n                  \n*❍Your Prefix:* [ " + prefixe + " ] \n*❍Bot Mode:* " + _0x401be2 + " \n*❍Total commands:* " + evt.cm.length + "\n\n╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍\n    \n╔═════⬧\n║⬧ *Thanks for choosing HUNCHO-MD*\n╚════════════════>\n╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍\n> *Regards keithkeizzah*";
             await _0x236875.sendMessage(_0x236875.user.id, {
               'text': _0x4b5e14
             });
