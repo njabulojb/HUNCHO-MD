@@ -1,18 +1,19 @@
-{
-  "name": "HUNCHO-MD",
-  "version": "1.0.0",
+
+ {
+  "name": "Huncho-md",
+  "version": "2.0.0",
   "description": "",
   "main": "keithkeizzah.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "s": "node keithkeizzah.js",
-    "bmwmd": "pm2 start keithkeizzah.js --attach --max-memory-restart 490M",
+    "zokou": "pm2 start keithkeizzah.js --attach --max-memory-restart 490M",
     "c": "tsc"
-  },
+    },
   "keywords": [
     "bot",
     "Baileys",
-    "Huncho-Md",
+    "Alpha-Md",
     "whatsapp",
     "whatsapp-bot",
     "keithkeizzah"
