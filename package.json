@@ -7,7 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "s": "node keithkeizzah.js",
-    "zokou": "pm2 start keithkeizzah.js --attach --max-memory-restart 490M",
+    "huncho": "pm2 start keithkeizzah.js --attach --max-memory-restart 490M",
     "c": "tsc"
     },
   "keywords": [
